@@ -1,0 +1,470 @@
+[Gene ID]	[source_id]	[Genomic Location (Gene)]	[Product Description]	[Computed GO Function IDs]	[Computed GO Functions]	
+CIMG_00013	CIMG_00013-t26_1	GG704911:8,407,905..8,408,595(-)	hypothetical protein	N/A	N/A	
+CIMG_00034	CIMG_00034-t26_1	GG704911:8,324,545..8,329,708(+)	ABC multidrug transporter Mdr1	GO:0005524, GO:0042626	ATP binding, ATPase activity, coupled to transmembrane movement of substances	
+CIMG_00065	CIMG_00065-t26_1	GG704911:8,215,095..8,217,366(+)	Mis12-Mtw1 domain-containing protein	N/A	N/A	
+CIMG_00067	CIMG_00067-t26_1	GG704911:8,207,842..8,210,331(+)	hypothetical protein	GO:0016772	transferase activity, transferring phosphorus-containing groups	
+CIMG_00073	CIMG_00073-t26_1	GG704911:8,187,674..8,190,009(+)	hypothetical protein	N/A	N/A	
+CIMG_00162	CIMG_00162-t26_1	GG704911:7,970,560..7,974,926(+)	potassium/sodium efflux P-type ATPase, fungal-type	GO:0019829, GO:0046872, GO:0000166	cation-transporting ATPase activity, metal ion binding, nucleotide binding	
+CIMG_00185	CIMG_00185-t26_1	GG704911:7,916,993..7,919,469(+)	inositol-3-phosphate synthase	GO:0004512	inositol-3-phosphate synthase activity	
+CIMG_00189	CIMG_00189-t26_1	GG704911:7,904,877..7,907,385(-)	hypothetical protein	GO:0008270	zinc ion binding	
+CIMG_00246	CIMG_00246-t26_1	GG704911:7,757,475..7,759,961(+)	hypothetical protein	N/A	N/A	
+CIMG_00306	CIMG_00306-t26_1	GG704911:7,620,805..7,623,768(+)	E3 ubiquitin-protein ligase	GO:0008270	zinc ion binding	
+CIMG_00363	CIMG_00363-t26_1	GG704911:7,478,576..7,480,678(+)	hypothetical protein	N/A	N/A	
+CIMG_00507	CIMG_00507-t26_1	GG704911:7,152,094..7,153,918(+)	hypothetical protein	GO:0016772	transferase activity, transferring phosphorus-containing groups	
+CIMG_00509	CIMG_00509-t26_1	GG704911:7,147,867..7,148,818(+)	hypothetical protein	N/A	N/A	
+CIMG_00512	CIMG_00512-t26_1	GG704911:7,140,956..7,141,333(+)	hypothetical protein	N/A	N/A	
+CIMG_00513	CIMG_00513-t26_1	GG704911:7,138,389..7,139,793(-)	histone H1/5	GO:0003677	DNA binding	
+CIMG_00581	CIMG_00581-t26_1	GG704911:6,956,368..6,956,880(+)	hypothetical protein	N/A	N/A	
+CIMG_00640	CIMG_00640-t26_1	GG704911:6,801,675..6,803,798(-)	sugar porter (SP) family MFS transporter	GO:0022891	substrate-specific transmembrane transporter activity	
+CIMG_00641	CIMG_00641-t26_1	GG704911:6,800,016..6,801,349(-)	hypothetical protein	N/A	N/A	
+CIMG_00646	CIMG_00646-t26_1	GG704911:6,789,401..6,791,353(+)	hypothetical protein	N/A	N/A	
+CIMG_00687	CIMG_00687-t26_1	GG704911:6,712,355..6,713,058(+)	hypothetical protein	N/A	N/A	
+CIMG_00689	CIMG_00689-t26_1	GG704911:6,705,034..6,708,406(+)	hypothetical protein	N/A	N/A	
+CIMG_00691	CIMG_00691-t26_1	GG704911:6,697,952..6,699,636(-)	hypothetical protein	GO:0016772	transferase activity, transferring phosphorus-containing groups	
+CIMG_00693	CIMG_00693-t26_1	GG704911:6,694,146..6,696,304(+)	hypothetical protein	N/A	N/A	
+CIMG_00694	CIMG_00694-t26_1	GG704911:6,692,307..6,695,440(-)	siderophore iron transporter	N/A	N/A	
+CIMG_00704	CIMG_00704-t26_1	GG704911:6,661,768..6,667,919(+)	vacuolar membrane-associated protein IML1	N/A	N/A	
+CIMG_00707	CIMG_00707-t26_1	GG704911:6,650,343..6,653,410(+)	C6 transcription factor	GO:0003677, GO:0000981, GO:0008270	DNA binding, RNA polymerase II transcription factor activity, sequence-specific DNA binding, zinc ion binding	
+CIMG_00708	CIMG_00708-t26_1	GG704911:6,646,153..6,646,708(+)	hypothetical protein	N/A	N/A	
+CIMG_00804	CIMG_00804-t26_1	GG704911:6,402,920..6,403,476(+)	hypothetical protein	GO:0001104	RNA polymerase II transcription cofactor activity	
+CIMG_00805	CIMG_00805-t26_1	GG704911:6,401,057..6,402,633(+)	hypothetical protein	N/A	N/A	
+CIMG_00809	CIMG_00809-t26_1	GG704911:6,389,425..6,391,797(+)	high-affinity nickel transporter	GO:0003677, GO:0003887	DNA binding, DNA-directed DNA polymerase activity	
+CIMG_00815	CIMG_00815-t26_1	GG704911:6,374,360..6,376,827(+)	Ni2+-Co2+ transporter (NiCoT) family transition metal uptake transporter, Ni2+-Co2+ transporter (NiCoT) family transition metal uptake transporter, variant	GO:0046872, GO:0015099	metal ion binding, nickel cation transmembrane transporter activity	
+CIMG_00904	CIMG_00904-t26_1	GG704911:6,112,394..6,117,848(+)	cell pattern formation-associated protein	GO:0003677, GO:0003700	DNA binding, transcription factor activity, sequence-specific DNA binding	
+CIMG_00927	CIMG_00927-t26_1	GG704911:6,036,143..6,039,386(+)	acyl-CoA synthetase	GO:0003824	catalytic activity	
+CIMG_00930	CIMG_00930-t26_1	GG704911:6,030,050..6,030,651(+)	hypothetical protein	N/A	N/A	
+CIMG_01081	CIMG_01081-t26_1	GG704911:5,639,557..5,639,946(+)	hypothetical protein	N/A	N/A	
+CIMG_01126	CIMG_01126-t26_1	GG704911:5,531,210..5,532,469(-)	hypothetical protein	N/A	N/A	
+CIMG_01128	CIMG_01128-t26_1	GG704911:5,527,965..5,530,145(-)	hypothetical protein	N/A	N/A	
+CIMG_01183	CIMG_01183-t26_1	GG704911:5,378,247..5,380,014(+)	hypothetical protein	N/A	N/A	
+CIMG_01185	CIMG_01185-t26_1	GG704911:5,373,903..5,375,252(-)	hypothetical protein	N/A	N/A	
+CIMG_01195	CIMG_01195-t26_1	GG704911:5,354,673..5,356,978(+)	xaa-Pro dipeptidase app	GO:0004177, GO:0030145	aminopeptidase activity, manganese ion binding	
+CIMG_01310	CIMG_01310-t26_1	GG704911:5,011,876..5,013,646(+)	4-hydroxyphenylpyruvate dioxygenase	GO:0003868	4-hydroxyphenylpyruvate dioxygenase activity	
+CIMG_01313	CIMG_01313-t26_1	GG704911:5,003,770..5,005,101(-)	fumarylacetoacetase	GO:0004334	fumarylacetoacetase activity	
+CIMG_01314	CIMG_01314-t26_1	GG704911:5,002,679..5,003,701(+)	maleylacetoacetate isomerase	GO:0003824, GO:0005515	catalytic activity, protein binding	
+CIMG_01326	CIMG_01326-t26_1	GG704911:4,977,117..4,977,552(+)	hypothetical protein	N/A	N/A	
+CIMG_01328	CIMG_01328-t26_1	GG704911:4,970,477..4,972,535(-)	monooxygenase	N/A	N/A	
+CIMG_01353	CIMG_01353-t26_1	GG704911:4,913,389..4,915,546(+)	sugar isomerase	GO:0030246	carbohydrate binding	
+CIMG_01354	CIMG_01354-t26_1	GG704911:4,911,129..4,912,637(+)	hypothetical protein	N/A	N/A	
+CIMG_01361	CIMG_01361-t26_1	GG704911:4,890,066..4,891,456(-)	S-methyl-5'-thioadenosine phosphorylase	GO:0017061, GO:0004645	S-methyl-5-thioadenosine phosphorylase activity, phosphorylase activity	
+CIMG_01362	CIMG_01362-t26_1	GG704911:4,888,237..4,889,182(-)	cell surface protein	N/A	N/A	
+CIMG_01429	CIMG_01429-t26_1	GG704911:4,712,505..4,718,531(+)	amino acid adenylation domain-containing protein	GO:0003824, GO:0031177	catalytic activity, phosphopantetheine binding	
+CIMG_01430	CIMG_01430-t26_1	GG704911:4,707,273..4,711,702(-)	ABC multidrug transporter	GO:0005524, GO:0042626	ATP binding, ATPase activity, coupled to transmembrane movement of substances	
+CIMG_01600	CIMG_01600-t26_1	GG704911:4,241,534..4,243,759(+)	transcription initiation factor TFIIH subunit 1	N/A	N/A	
+CIMG_01615	CIMG_01615-t26_1	GG704911:4,207,890..4,209,091(+)	hypothetical protein	N/A	N/A	
+CIMG_01646	CIMG_01646-t26_1	GG704911:4,130,550..4,133,509(+)	G2/M-specific cyclin NimE	GO:0019901	protein kinase binding	
+CIMG_01676	CIMG_01676-t26_1	GG704911:4,042,563..4,047,750(+)	DEAD/DEAH box DNA helicase	GO:0005524, GO:0003676	ATP binding, nucleic acid binding	
+CIMG_01686	CIMG_01686-t26_1	GG704911:4,012,555..4,015,964(+)	spindle pole body component	GO:0005488	binding	
+CIMG_01768	CIMG_01768-t26_1	GG704911:3,791,326..3,792,706(+)	hypothetical protein	N/A	N/A	
+CIMG_01769	CIMG_01769-t26_1	GG704911:3,790,108..3,791,033(-)	hypothetical protein	N/A	N/A	
+CIMG_01789	CIMG_01789-t26_1	GG704911:3,739,250..3,741,701(+)	cell wall integrity and stress response component	N/A	N/A	
+CIMG_01826	CIMG_01826-t26_1	GG704911:3,641,628..3,642,800(-)	hypothetical protein	N/A	N/A	
+CIMG_01867	CIMG_01867-t26_1	GG704911:3,541,476..3,543,927(+)	acetamidase	GO:0016884, GO:0016811	carbon-nitrogen ligase activity, with glutamine as amido-N-donor, hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides	
+CIMG_01872	CIMG_01872-t26_1	GG704911:3,523,569..3,525,622(+)	hypothetical protein	N/A	N/A	
+CIMG_01994	CIMG_01994-t26_1	GG704911:3,235,424..3,238,259(+)	neutral trehalase	GO:0004555, GO:0005509	alpha,alpha-trehalase activity, calcium ion binding	
+CIMG_01996	CIMG_01996-t26_1	GG704911:3,233,177..3,234,131(-)	hypothetical protein	N/A	N/A	
+CIMG_02002	CIMG_02002-t26_1	GG704911:3,214,882..3,218,258(-)	hypothetical protein	N/A	N/A	
+CIMG_02005	CIMG_02005-t26_1	GG704911:3,209,623..3,210,787(-)	hypothetical protein	GO:0005515	protein binding	
+CIMG_02023	CIMG_02023-t26_1	GG704911:3,156,648..3,157,076(+)	hypothetical protein	N/A	N/A	
+CIMG_02094	CIMG_02094-t26_1	GG704911:2,948,721..2,950,205(-)	hypothetical protein	GO:0016772	transferase activity, transferring phosphorus-containing groups	
+CIMG_02109	CIMG_02109-t26_1	GG704911:2,875,638..2,879,822(+)	nuclear envelope pore membrane protein	N/A	N/A	
+CIMG_02133	CIMG_02133-t26_1	GG704911:2,703,749..2,704,706(-)	histone H2B	GO:0003677, GO:0046982	DNA binding, protein heterodimerization activity	
+CIMG_02166	CIMG_02166-t26_1	GG704911:2,545,797..2,547,188(+)	plasma membrane ammonium transporter Ato3	N/A	N/A	
+CIMG_02175	CIMG_02175-t26_1	GG704911:2,520,386..2,521,965(-)	hypothetical protein	GO:0005524, GO:0042626	ATP binding, ATPase activity, coupled to transmembrane movement of substances	
+CIMG_02238	CIMG_02238-t26_1	GG704911:2,348,452..2,352,410(-)	hypothetical protein	GO:0043531, GO:0005515	ADP binding, protein binding	
+CIMG_02277	CIMG_02277-t26_1	GG704911:2,238,384..2,240,861(+)	benzoate 4-monooxygenase cytochrome P450	GO:0020037, GO:0005506, GO:0016705	heme binding, iron ion binding, oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	
+CIMG_02279	CIMG_02279-t26_1	GG704911:2,232,717..2,234,103(-)	hypothetical protein	N/A	N/A	
+CIMG_02296	CIMG_02296-t26_1	GG704911:2,177,314..2,179,953(+)	ELMO/CED-12 family protein	GO:0005488	binding	
+CIMG_02373	CIMG_02373-t26_1	GG704911:1,993,034..1,994,611(+)	CMGC/SRPK protein kinase	GO:0005524, GO:0004672	ATP binding, protein kinase activity	
+CIMG_02374	CIMG_02374-t26_1	GG704911:1,990,854..1,992,897(+)	acetamidase	GO:0016884, GO:0016811	carbon-nitrogen ligase activity, with glutamine as amido-N-donor, hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides	
+CIMG_02505	CIMG_02505-t26_1	GG704911:1,659,463..1,660,205(+)	hypothetical protein	N/A	N/A	
+CIMG_02538	CIMG_02538-t26_1	GG704911:1,588,320..1,590,284(+)	hypothetical protein	N/A	N/A	
+CIMG_02539	CIMG_02539-t26_1	GG704911:1,587,018..1,587,676(+)	hypothetical protein	N/A	N/A	
+CIMG_02547	CIMG_02547-t26_1	GG704911:1,559,651..1,562,745(-)	hypothetical protein	N/A	N/A	
+CIMG_02572	CIMG_02572-t26_1	GG704911:1,494,776..1,495,903(+)	hypothetical protein	N/A	N/A	
+CIMG_02610	CIMG_02610-t26_1	GG704911:1,396,393..1,398,243(-)	C-5 sterol desaturase	GO:0005506, GO:0016491	iron ion binding, oxidoreductase activity	
+CIMG_02644	CIMG_02644-t26_1	GG704911:1,317,073..1,318,573(+)	C-4 methylsterol oxidase	GO:0005506, GO:0016491	iron ion binding, oxidoreductase activity	
+CIMG_02674	CIMG_02674-t26_1	GG704911:1,232,961..1,235,173(+)	hypothetical protein	GO:0016772	transferase activity, transferring phosphorus-containing groups	
+CIMG_02728	CIMG_02728-t26_1	GG704911:1,102,055..1,103,082(+)	BTB/POZ domain-containing protein	GO:0005515	protein binding	
+CIMG_02752	CIMG_02752-t26_1	GG704911:1,041,604..1,044,362(+)	hypothetical protein	N/A	N/A	
+CIMG_02788	CIMG_02788-t26_1	GG704911:917,665..918,835(-)	hypothetical protein	N/A	N/A	
+CIMG_02848	CIMG_02848-t26_1	GG704911:756,222..757,892(+)	aminotransferase	GO:0030170	pyridoxal phosphate binding	
+CIMG_02860	CIMG_02860-t26_1	GG704911:730,236..731,201(-)	chitinase 3	N/A	N/A	
+CIMG_02880	CIMG_02880-t26_1	GG704911:681,870..683,765(-)	mitochondrial carnitine:acyl carnitine carrier	N/A	N/A	
+CIMG_02896	CIMG_02896-t26_1	GG704911:623,167..625,250(-)	hypothetical protein	GO:0016772	transferase activity, transferring phosphorus-containing groups	
+CIMG_02923	CIMG_02923-t26_1	GG704911:531,905..534,614(+)	SET domain-containing protein	GO:0005515	protein binding	
+CIMG_02972	CIMG_02972-t26_1	GG704916:115,772..117,382(+)	CMGC/SRPK protein kinase	GO:0005524, GO:0004672	ATP binding, protein kinase activity	
+CIMG_02985	CIMG_02985-t26_1	GG704916:167,859..170,179(+)	C4-hydroxylase	GO:0005506, GO:0016491	iron ion binding, oxidoreductase activity	
+CIMG_03125	CIMG_03125-t26_1	GG704916:524,916..526,152(+)	hypothetical protein	N/A	N/A	
+CIMG_03169	CIMG_03169-t26_1	GG704916:632,273..634,358(+)	cystathionine gamma-synthase	GO:0030170	pyridoxal phosphate binding	
+CIMG_03171	CIMG_03171-t26_1	GG704916:637,557..640,127(+)	hypothetical protein	GO:0005524, GO:0046872	ATP binding, metal ion binding	
+CIMG_03231	CIMG_03231-t26_1	GG704916:800,159..801,851(+)	hypothetical protein	N/A	N/A	
+CIMG_03269	CIMG_03269-t26_1	GG704916:894,426..895,415(-)	hypothetical protein	N/A	N/A	
+CIMG_03271	CIMG_03271-t26_1	GG704916:898,707..900,373(+)	acyl-CoA dehydrogenase	GO:0003995, GO:0050660	acyl-CoA dehydrogenase activity, flavin adenine dinucleotide binding	
+CIMG_03298	CIMG_03298-t26_1	GG704916:967,843..969,674(+)	hypothetical protein	GO:0016772	transferase activity, transferring phosphorus-containing groups	
+CIMG_03440	CIMG_03440-t26_1	GG704916:1,340,356..1,341,299(+)	hypothetical protein	N/A	N/A	
+CIMG_03443	CIMG_03443-t26_1	GG704916:1,343,940..1,344,834(-)	phosphotransferase enzyme family protein	GO:0016772	transferase activity, transferring phosphorus-containing groups	
+CIMG_03446	CIMG_03446-t26_1	GG704916:1,350,969..1,352,556(+)	hypothetical protein	N/A	N/A	
+CIMG_03472	CIMG_03472-t26_1	GG704916:1,422,122..1,425,360(+)	extracellular serine-threonine rich protein	N/A	N/A	
+CIMG_03477	CIMG_03477-t26_1	GG704916:1,435,429..1,435,851(+)	hypothetical protein	N/A	N/A	
+CIMG_03630	CIMG_03630-t26_1	GG704916:1,791,490..1,792,594(-)	hypothetical protein	N/A	N/A	
+CIMG_03632	CIMG_03632-t26_1	GG704916:1,794,714..1,795,658(-)	hypothetical protein	N/A	N/A	
+CIMG_03635	CIMG_03635-t26_1	GG704916:1,801,479..1,803,754(+)	hydroxymethylglutaryl-CoA synthase	GO:0004421	hydroxymethylglutaryl-CoA synthase activity	
+CIMG_03691	CIMG_03691-t26_1	GG704916:1,941,994..1,942,410(+)	hypothetical protein	N/A	N/A	
+CIMG_03743	CIMG_03743-t26_1	GG704916:2,076,656..2,077,192(+)	hypothetical protein	N/A	N/A	
+CIMG_03772	CIMG_03772-t26_1	GG704916:2,155,679..2,157,259(-)	hypothetical protein	N/A	N/A	
+CIMG_03777	CIMG_03777-t26_1	GG704916:2,164,879..2,168,533(+)	glutaminase	N/A	N/A	
+CIMG_03990	CIMG_03990-t26_1	GG704916:2,686,451..2,687,146(-)	hypothetical protein	N/A	N/A	
+CIMG_04132	CIMG_04132-t26_1	GG704916:3,034,168..3,038,123(+)	recombination protein rad52	GO:0003676	nucleic acid binding	
+CIMG_04239	CIMG_04239-t26_1	GG704916:3,305,378..3,307,345(+)	hypothetical protein	GO:0003676	nucleic acid binding	
+CIMG_04267	CIMG_04267-t26_1	GG704916:3,449,489..3,451,114(-)	hypothetical protein	N/A	N/A	
+CIMG_04308	CIMG_04308-t26_1	GG704914:223,106..224,187(+)	hypothetical protein	N/A	N/A	
+CIMG_04321	CIMG_04321-t26_1	GG704914:252,682..254,562(+)	hypothetical protein	N/A	N/A	
+CIMG_04351	CIMG_04351-t26_1	GG704914:311,521..313,314(+)	cellobiose dehydrogenase	N/A	N/A	
+CIMG_04370	CIMG_04370-t26_1	GG704914:356,464..357,945(+)	hypothetical protein	N/A	N/A	
+CIMG_04371	CIMG_04371-t26_1	GG704914:358,861..360,102(+)	hypothetical protein	GO:0005179	hormone activity	
+CIMG_04372	CIMG_04372-t26_1	GG704914:360,332..361,782(-)	hypothetical protein	N/A	N/A	
+CIMG_04416	CIMG_04416-t26_1	GG704914:470,989..473,862(-)	carboxypeptidase 2	GO:0004185	serine-type carboxypeptidase activity	
+CIMG_04418	CIMG_04418-t26_1	GG704914:478,892..479,390(+)	hypothetical protein	N/A	N/A	
+CIMG_04615	CIMG_04615-t26_1	GG704914:975,712..980,087(+)	hypothetical protein	N/A	N/A	
+CIMG_04618	CIMG_04618-t26_1	GG704914:982,059..983,966(+)	hypothetical protein	N/A	N/A	
+CIMG_04665	CIMG_04665-t26_1	GG704914:1,111,941..1,113,405(-)	hypothetical protein	N/A	N/A	
+CIMG_04666	CIMG_04666-t26_1	GG704914:1,115,634..1,116,042(+)	hypothetical protein	N/A	N/A	
+CIMG_04691	CIMG_04691-t26_1	GG704914:1,187,741..1,189,549(+)	chromate ion transporter	GO:0015109	chromate transmembrane transporter activity	
+CIMG_04710	CIMG_04710-t26_1	GG704914:1,232,180..1,233,705(-)	hypothetical protein	N/A	N/A	
+CIMG_04844	CIMG_04844-t26_1	GG704914:1,612,178..1,615,001(-)	endo-1,3(4)-beta-glucanase	GO:0004553	hydrolase activity, hydrolyzing O-glycosyl compounds	
+CIMG_04863	CIMG_04863-t26_1	GG704914:1,666,833..1,668,611(-)	sugar porter (SP) family MFS transporter	GO:0022891	substrate-specific transmembrane transporter activity	
+CIMG_04936	CIMG_04936-t26_1	GG704914:1,869,630..1,872,604(-)	DNA repair protein	N/A	N/A	
+CIMG_04938	CIMG_04938-t26_1	GG704914:1,877,243..1,878,115(+)	hypothetical protein	N/A	N/A	
+CIMG_04950	CIMG_04950-t26_1	GG704914:1,913,600..1,915,249(+)	serine/threonine protein kinase	GO:0005524, GO:0004672	ATP binding, protein kinase activity	
+CIMG_05004	CIMG_05004-t26_1	GG704914:2,057,109..2,059,834(+)	hypothetical protein	N/A	N/A	
+CIMG_05008	CIMG_05008-t26_1	GG704914:2,064,283..2,065,397(-)	hypothetical protein	N/A	N/A	
+CIMG_05078	CIMG_05078-t26_1	GG704914:2,245,372..2,247,458(+)	extracellular serine-rich protein	N/A	N/A	
+CIMG_05093	CIMG_05093-t26_1	GG704914:2,281,697..2,286,035(+)	CMGC/RCK/MAK protein kinase	GO:0005524, GO:0004672	ATP binding, protein kinase activity	
+CIMG_05125	CIMG_05125-t26_1	GG704914:2,359,482..2,360,428(+)	hypothetical protein	N/A	N/A	
+CIMG_05130	CIMG_05130-t26_1	GG704914:2,367,691..2,368,734(+)	hypothetical protein	N/A	N/A	
+CIMG_05158	CIMG_05158-t26_1	GG704914:2,507,743..2,508,679(-)	hypothetical protein	N/A	N/A	
+CIMG_05190	CIMG_05190-t26_1	GG704914:2,626,754..2,628,194(-)	CMGC/SRPK protein kinase	GO:0005524, GO:0004672	ATP binding, protein kinase activity	
+CIMG_05191	CIMG_05191-t26_1	GG704914:2,628,856..2,629,356(+)	hypothetical protein	N/A	N/A	
+CIMG_05201	CIMG_05201-t26_1	GG704914:2,658,489..2,660,558(+)	protein btn1	N/A	N/A	
+CIMG_05239	CIMG_05239-t26_1	GG704914:2,755,766..2,757,303(+)	hypothetical protein	N/A	N/A	
+CIMG_05241	CIMG_05241-t26_1	GG704914:2,760,045..2,761,142(+)	hypothetical protein	N/A	N/A	
+CIMG_05265	CIMG_05265-t26_1	GG704914:2,821,124..2,822,273(-)	hypothetical protein	N/A	N/A	
+CIMG_05283	CIMG_05283-t26_1	GG704914:2,859,112..2,862,041(+)	hypothetical protein	N/A	N/A	
+CIMG_05284	CIMG_05284-t26_1	GG704914:2,862,571..2,864,448(+)	hypothetical protein	N/A	N/A	
+CIMG_05288	CIMG_05288-t26_1	GG704914:2,875,962..2,877,278(+)	hypothetical protein	N/A	N/A	
+CIMG_05341	CIMG_05341-t26_1	GG704914:3,058,497..3,061,191(-)	hypothetical protein	N/A	N/A	
+CIMG_05377	CIMG_05377-t26_3	GG704914:3,164,776..3,168,877(+)	protein phosphatase regulatory subunit Gac1, protein phosphatase regulatory subunit Gac1, variant 1, protein phosphatase regulatory subunit Gac1, variant 2	GO:0005515	protein binding	
+CIMG_05401	CIMG_05401-t26_1	GG704914:3,239,270..3,241,365(-)	NCS1 nucleoside transporter	GO:0015205	nucleobase transmembrane transporter activity	
+CIMG_05407	CIMG_05407-t26_1	GG704914:3,258,246..3,259,382(-)	hypothetical protein	N/A	N/A	
+CIMG_05424	CIMG_05424-t26_1	GG704914:3,300,124..3,301,521(-)	hypothetical protein	N/A	N/A	
+CIMG_05488	CIMG_05488-t26_1	GG704914:3,476,464..3,477,637(+)	hypothetical protein	N/A	N/A	
+CIMG_05497	CIMG_05497-t26_1	GG704914:3,503,609..3,507,597(+)	hypothetical protein	N/A	N/A	
+CIMG_05540	CIMG_05540-t26_1	GG704914:3,616,565..3,617,415(+)	hypothetical protein	N/A	N/A	
+CIMG_05552	CIMG_05552-t26_1	GG704914:3,643,410..3,645,016(+)	transmembrane protein UsgS	N/A	N/A	
+CIMG_05564	CIMG_05564-t26_1	GG704914:3,666,214..3,666,834(+)	hypothetical protein	N/A	N/A	
+CIMG_05565	CIMG_05565-t26_1	GG704914:3,667,375..3,668,450(-)	citrinin biosynthesis oxydoreductase CtnB	N/A	N/A	
+CIMG_05585	CIMG_05585-t26_1	GG704914:3,720,243..3,722,316(-)	hypothetical protein	N/A	N/A	
+CIMG_05614	CIMG_05614-t26_1	GG704914:3,801,218..3,801,756(+)	hypothetical protein	N/A	N/A	
+CIMG_05654	CIMG_05654-t26_1	GG704914:3,899,642..3,900,803(+)	hypothetical protein	N/A	N/A	
+CIMG_05660	CIMG_05660-t26_1	GG704914:3,922,204..3,924,733(-)	CMGC/SRPK protein kinase	GO:0005524, GO:0004672	ATP binding, protein kinase activity	
+CIMG_05667	CIMG_05667-t26_1	GG704914:3,938,349..3,939,045(-)	hypothetical protein	N/A	N/A	
+CIMG_05689	CIMG_05689-t26_1	GG704915:3,406,146..3,407,014(+)	hypothetical protein	N/A	N/A	
+CIMG_05690	CIMG_05690-t26_1	GG704915:3,404,720..3,405,496(+)	hypothetical protein	N/A	N/A	
+CIMG_05694	CIMG_05694-t26_1	GG704915:3,396,016..3,398,039(+)	CMGC/SRPK protein kinase	GO:0005524, GO:0004672	ATP binding, protein kinase activity	
+CIMG_05695	CIMG_05695-t26_1	GG704915:3,395,488..3,396,149(-)	hypothetical protein	N/A	N/A	
+CIMG_05697	CIMG_05697-t26_1	GG704915:3,392,146..3,393,273(-)	hypothetical protein	N/A	N/A	
+CIMG_05703	CIMG_05703-t26_1	GG704915:3,383,337..3,385,128(-)	MFS transporter	N/A	N/A	
+CIMG_05727	CIMG_05727-t26_1	GG704915:3,322,525..3,324,137(-)	farnesyltransferase alpha subunit	GO:0008318	protein prenyltransferase activity	
+CIMG_05734	CIMG_05734-t26_1	GG704915:3,306,629..3,307,123(+)	hypothetical protein	N/A	N/A	
+CIMG_05810	CIMG_05810-t26_1	GG704912:948,497..950,811(-)	hypothetical protein	N/A	N/A	
+CIMG_05812	CIMG_05812-t26_1	GG704912:955,439..956,046(+)	hypothetical protein	N/A	N/A	
+CIMG_05814	CIMG_05814-t26_1	GG704912:957,863..958,789(+)	phosphotransferase	GO:0016772	transferase activity, transferring phosphorus-containing groups	
+CIMG_05816	CIMG_05816-t26_1	GG704912:965,165..967,260(+)	arylsulfatase	GO:0004065	arylsulfatase activity	
+CIMG_05817	CIMG_05817-t26_1	GG704912:967,628..969,228(+)	tetraspanin	N/A	N/A	
+CIMG_05824	CIMG_05824-t26_1	GG704912:982,480..983,681(+)	peptidyl-prolyl cis-trans isomerase-like 1	GO:0003755	peptidyl-prolyl cis-trans isomerase activity	
+CIMG_05851	CIMG_05851-t26_1	GG704912:1,044,950..1,045,346(+)	hypothetical protein	N/A	N/A	
+CIMG_05875	CIMG_05875-t26_1	GG704912:1,105,869..1,108,407(+)	hypothetical protein	GO:0004499, GO:0050661, GO:0050660	N,N-dimethylaniline monooxygenase activity, NADP binding, flavin adenine dinucleotide binding	
+CIMG_05939	CIMG_05939-t26_1	GG704912:1,262,661..1,263,014(+)	hypothetical protein	N/A	N/A	
+CIMG_05961	CIMG_05961-t26_1	GG704912:1,343,339..1,344,257(+)	hypothetical protein	N/A	N/A	
+CIMG_05962	CIMG_05962-t26_1	GG704912:1,347,264..1,350,212(+)	hypothetical protein	N/A	N/A	
+CIMG_06036	CIMG_06036-t26_1	GG704912:1,522,485..1,523,987(+)	DNA repair and transcription factor Ada	GO:0008168, GO:0043565, GO:0003700, GO:0008270	methyltransferase activity, sequence-specific DNA binding, transcription factor activity, sequence-specific DNA binding, zinc ion binding	
+CIMG_06040	CIMG_06040-t26_1	GG704912:1,529,295..1,531,492(+)	BAR domain-containing protein	GO:0005515	protein binding	
+CIMG_06059	CIMG_06059-t26_1	GG704912:1,583,035..1,583,799(-)	hypothetical protein	N/A	N/A	
+CIMG_06250	CIMG_06250-t26_1	GG704912:2,118,191..2,120,492(+)	hypothetical protein	N/A	N/A	
+CIMG_06267	CIMG_06267-t26_1	GG704912:2,154,881..2,156,699(+)	hypothetical protein	GO:0005515	protein binding	
+CIMG_06409	CIMG_06409-t26_1	GG704912:2,536,774..2,538,828(+)	phthalate transporter	N/A	N/A	
+CIMG_06441	CIMG_06441-t26_1	GG704912:2,612,710..2,613,023(+)	hypothetical protein	N/A	N/A	
+CIMG_06492	CIMG_06492-t26_1	GG704912:2,758,002..2,758,316(+)	hypothetical protein	N/A	N/A	
+CIMG_06494	CIMG_06494-t26_1	GG704912:2,761,163..2,763,563(+)	oligopeptide transporter	GO:0005215	transporter activity	
+CIMG_06568	CIMG_06568-t26_1	GG704912:2,947,437..2,949,569(+)	serine/threonine protein kinase	GO:0005524, GO:0004672	ATP binding, protein kinase activity	
+CIMG_06696	CIMG_06696-t26_1	GG704912:3,272,090..3,273,515(-)	hypothetical protein	N/A	N/A	
+CIMG_06705	CIMG_06705-t26_1	GG704912:3,296,164..3,296,388(+)	hypothetical protein	N/A	N/A	
+CIMG_06911	CIMG_06911-t26_1	GG704912:3,808,626..3,810,611(-)	lanthionine synthetase C family protein	N/A	N/A	
+CIMG_06953	CIMG_06953-t26_1	GG704912:3,932,165..3,933,433(+)	serine/threonine protein kinase	GO:0005524, GO:0004672	ATP binding, protein kinase activity	
+CIMG_07061	CIMG_07061-t26_1	GG704912:4,203,323..4,205,598(-)	NCS1 nucleoside transporter	GO:0015205	nucleobase transmembrane transporter activity	
+CIMG_07062	CIMG_07062-t26_1	GG704912:4,205,569..4,206,597(+)	dioxygenase	N/A	N/A	
+CIMG_07226	CIMG_07226-t26_1	GG704912:4,606,085..4,608,965(-)	imidazole glycerol phosphate synthase hisHF	GO:0000107, GO:0016833	imidazoleglycerol-phosphate synthase activity, oxo-acid-lyase activity	
+CIMG_07281	CIMG_07281-t26_1	GG704912:4,939,181..4,939,752(+)	hypothetical protein	N/A	N/A	
+CIMG_07298	CIMG_07298-t26_1	GG704912:4,976,178..4,981,986(-)	amino acid adenylation domain-containing protein	GO:0003824, GO:0031177	catalytic activity, phosphopantetheine binding	
+CIMG_07299	CIMG_07299-t26_1	GG704912:4,983,264..4,984,802(+)	hypothetical protein	GO:0016491	oxidoreductase activity	
+CIMG_07363	CIMG_07363-t26_1	GG704912:5,130,375..5,131,989(-)	hypothetical protein	N/A	N/A	
+CIMG_07374	CIMG_07374-t26_1	GG704912:5,171,374..5,172,801(+)	hypothetical protein	N/A	N/A	
+CIMG_07488	CIMG_07488-t26_1	GG704913:3,855,180..3,856,810(+)	oxidoreductase	GO:0018580	nitronate monooxygenase activity	
+CIMG_07569	CIMG_07569-t26_1	GG704913:3,640,479..3,642,169(+)	allantoate permease	N/A	N/A	
+CIMG_07608	CIMG_07608-t26_1	GG704913:3,542,397..3,543,284(-)	hypothetical protein	N/A	N/A	
+CIMG_07645	CIMG_07645-t26_1	GG704913:3,458,696..3,459,973(-)	serine/threonine protein kinase	GO:0005524, GO:0004672	ATP binding, protein kinase activity	
+CIMG_07646	CIMG_07646-t26_1	GG704913:3,456,654..3,457,706(-)	hypothetical protein	N/A	N/A	
+CIMG_07667	CIMG_07667-t26_1	GG704913:3,401,345..3,405,590(+)	morphogenesis protein	N/A	N/A	
+CIMG_07730	CIMG_07730-t26_1	GG704913:3,242,402..3,243,756(+)	alcohol dehydrogenase	GO:0016491, GO:0016747, GO:0008270	oxidoreductase activity, transferase activity, transferring acyl groups other than amino-acyl groups, zinc ion binding	
+CIMG_07783	CIMG_07783-t26_1	GG704913:3,085,210..3,087,046(+)	hypothetical protein	GO:0016772	transferase activity, transferring phosphorus-containing groups	
+CIMG_07811	CIMG_07811-t26_1	GG704913:2,992,466..2,994,632(+)	hypothetical protein	N/A	N/A	
+CIMG_07872	CIMG_07872-t26_1	GG704913:2,836,531..2,837,419(-)	protein kinase	N/A	N/A	
+CIMG_07904	CIMG_07904-t26_1	GG704913:2,760,598..2,761,764(-)	hypothetical protein	N/A	N/A	
+CIMG_07905	CIMG_07905-t26_1	GG704913:2,757,255..2,759,497(-)	serine/threonine protein kinase	GO:0005524, GO:0004672	ATP binding, protein kinase activity	
+CIMG_07930	CIMG_07930-t26_1	GG704913:2,709,513..2,710,442(-)	hypothetical protein	N/A	N/A	
+CIMG_07976	CIMG_07976-t26_1	GG704913:2,593,732..2,594,626(-)	thioesterase	N/A	N/A	
+CIMG_07986	CIMG_07986-t26_1	GG704913:2,567,573..2,568,229(-)	cyclase/dehydrase	N/A	N/A	
+CIMG_08011	CIMG_08011-t26_1	GG704913:2,491,937..2,493,706(+)	hypothetical protein	GO:0005524, GO:0004672	ATP binding, protein kinase activity	
+CIMG_08044	CIMG_08044-t26_1	GG704913:2,394,402..2,396,693(-)	cell wall integrity signaling protein Lsp1/Pil1	N/A	N/A	
+CIMG_08129	CIMG_08129-t26_1	GG704913:2,189,771..2,191,157(+)	hypothetical protein	N/A	N/A	
+CIMG_08132	CIMG_08132-t26_1	GG704913:2,182,843..2,184,824(-)	hypothetical protein	N/A	N/A	
+CIMG_08133	CIMG_08133-t26_1	GG704913:2,179,814..2,181,744(+)	peroxisomal AMP binding enzyme	GO:0003824	catalytic activity	
+CIMG_08178	CIMG_08178-t26_1	GG704913:2,072,734..2,075,290(-)	hypothetical protein	GO:0016772	transferase activity, transferring phosphorus-containing groups	
+CIMG_08248	CIMG_08248-t26_1	GG704913:1,891,882..1,892,677(+)	hypothetical protein	N/A	N/A	
+CIMG_08257	CIMG_08257-t26_1	GG704913:1,874,794..1,875,964(+)	hypothetical protein	N/A	N/A	
+CIMG_08270	CIMG_08270-t26_1	GG704913:1,845,504..1,846,171(-)	hypothetical protein	N/A	N/A	
+CIMG_08287	CIMG_08287-t26_1	GG704913:1,756,296..1,756,939(-)	protein kinase	GO:0005524, GO:0004672	ATP binding, protein kinase activity	
+CIMG_08289	CIMG_08289-t26_1	GG704913:1,749,366..1,750,352(+)	serine/threonine protein kinase	GO:0005524, GO:0004672	ATP binding, protein kinase activity	
+CIMG_08309	CIMG_08309-t26_1	GG704913:1,697,695..1,699,010(-)	hypothetical protein	N/A	N/A	
+CIMG_08321	CIMG_08321-t26_1	GG704913:1,667,932..1,669,738(-)	hypothetical protein	GO:0016772	transferase activity, transferring phosphorus-containing groups	
+CIMG_08323	CIMG_08323-t26_1	GG704913:1,664,011..1,666,493(-)	hypothetical protein	N/A	N/A	
+CIMG_08364	CIMG_08364-t26_1	GG704913:1,550,267..1,550,853(-)	hypothetical protein	N/A	N/A	
+CIMG_08398	CIMG_08398-t26_1	GG704913:1,417,906..1,420,327(-)	hypothetical protein	N/A	N/A	
+CIMG_08399	CIMG_08399-t26_1	GG704913:1,415,957..1,417,142(-)	hypothetical protein	GO:0016772	transferase activity, transferring phosphorus-containing groups	
+CIMG_08400	CIMG_08400-t26_1	GG704913:1,414,381..1,415,469(-)	hypothetical protein	N/A	N/A	
+CIMG_08401	CIMG_08401-t26_1	GG704913:1,412,458..1,414,461(+)	hypothetical protein	N/A	N/A	
+CIMG_08422	CIMG_08422-t26_1	GG704913:1,346,885..1,347,384(+)	hypothetical protein	N/A	N/A	
+CIMG_08439	CIMG_08439-t26_1	GG704913:1,313,067..1,315,007(+)	hypothetical protein	N/A	N/A	
+CIMG_08471	CIMG_08471-t26_1	GG704913:1,219,688..1,220,303(-)	hypothetical protein	N/A	N/A	
+CIMG_08500	CIMG_08500-t26_1	GG704913:1,138,553..1,139,554(+)	hypothetical protein	N/A	N/A	
+CIMG_08560	CIMG_08560-t26_1	GG704913:987,502..988,909(-)	hypothetical protein	GO:0008171	O-methyltransferase activity	
+CIMG_08569	CIMG_08569-t26_1	GG704913:953,487..960,643(-)	polyketide synthase	GO:0016788, GO:0031177	hydrolase activity, acting on ester bonds, phosphopantetheine binding	
+CIMG_08614	CIMG_08614-t26_1	GG704913:813,687..814,670(-)	hypothetical protein	N/A	N/A	
+CIMG_08709	CIMG_08709-t26_1	GG704913:581,715..582,137(-)	hypothetical protein	N/A	N/A	
+CIMG_08732	CIMG_08732-t26_1	GG704913:524,122..526,011(+)	hypothetical protein	N/A	N/A	
+CIMG_08736	CIMG_08736-t26_1	GG704913:516,138..516,661(+)	hypothetical protein	N/A	N/A	
+CIMG_08749	CIMG_08749-t26_1	GG704913:488,638..490,034(+)	hypothetical protein	N/A	N/A	
+CIMG_08756	CIMG_08756-t26_1	GG704913:473,212..473,860(-)	hypothetical protein	N/A	N/A	
+CIMG_08757	CIMG_08757-t26_1	GG704913:470,970..472,044(-)	hypothetical protein	N/A	N/A	
+CIMG_08758	CIMG_08758-t26_1	GG704913:469,500..470,137(+)	hypothetical protein	N/A	N/A	
+CIMG_08848	CIMG_08848-t26_1	GG704913:237,175..240,835(-)	MFS transporter	N/A	N/A	
+CIMG_08881	CIMG_08881-t26_1	GG704913:152,839..155,056(-)	RNA polymerase II mediator complex component SRB4	GO:0001104	RNA polymerase II transcription cofactor activity	
+CIMG_08922	CIMG_08922-t26_1	GG704913:50,635..53,092(+)	GABA permease	GO:0015171	amino acid transmembrane transporter activity	
+CIMG_08970	CIMG_08970-t26_1	GG704915:1,648,863..1,650,956(-)	S-adenosylmethionine synthase	GO:0005524, GO:0004478	ATP binding, methionine adenosyltransferase activity	
+CIMG_08972	CIMG_08972-t26_1	GG704915:1,652,607..1,653,611(-)	hypothetical protein	N/A	N/A	
+CIMG_09058	CIMG_09058-t26_1	GG704915:1,857,496..1,858,150(+)	hypothetical protein	N/A	N/A	
+CIMG_09157	CIMG_09157-t26_1	GG704915:2,122,295..2,124,226(+)	tRNA(m5U54)methyltransferase	GO:0030697	S-adenosylmethionine-dependent tRNA (m5U54) methyltransferase activity	
+CIMG_09334	CIMG_09334-t26_1	GG704915:2,609,075..2,610,247(+)	hypothetical protein	N/A	N/A	
+CIMG_09336	CIMG_09336-t26_1	GG704915:2,613,449..2,614,984(-)	hypothetical protein	N/A	N/A	
+CIMG_09337	CIMG_09337-t26_1	GG704915:2,616,182..2,617,691(+)	hypothetical protein	N/A	N/A	
+CIMG_09429	CIMG_09429-t26_1	GG704915:2,853,070..2,854,870(+)	succinate:fumarate antiporter	N/A	N/A	
+CIMG_09484	CIMG_09484-t26_1	GG704915:2,994,091..2,995,921(-)	hypothetical protein	N/A	N/A	
+CIMG_09485	CIMG_09485-t26_1	GG704915:3,000,104..3,002,304(+)	hypothetical protein	N/A	N/A	
+CIMG_09494	CIMG_09494-t26_1	GG704915:3,020,278..3,021,465(+)	hypothetical protein	N/A	N/A	
+CIMG_09497	CIMG_09497-t26_1	GG704915:3,026,202..3,035,182(+)	hypothetical protein	N/A	N/A	
+CIMG_09564	CIMG_09564-t26_1	GG704915:3,208,437..3,210,299(-)	hypothetical protein	N/A	N/A	
+CIMG_09565	CIMG_09565-t26_1	GG704915:3,211,175..3,212,110(-)	hypothetical protein	GO:0016491	oxidoreductase activity	
+CIMG_09566	CIMG_09566-t26_1	GG704915:3,213,002..3,215,850(+)	ornithine decarboxylase	GO:0003824	catalytic activity	
+CIMG_09567	CIMG_09567-t26_1	GG704915:3,216,153..3,218,109(+)	hypothetical protein	N/A	N/A	
+CIMG_09577	CIMG_09577-t26_1	GG704915:3,250,726..3,254,631(+)	hypothetical protein	N/A	N/A	
+CIMG_09578	CIMG_09578-t26_1	GG704915:3,254,908..3,256,564(+)	phospholipase D	GO:0004630	phospholipase D activity	
+CIMG_09581	CIMG_09581-t26_1	GG704915:3,265,220..3,266,108(+)	hypothetical protein	N/A	N/A	
+CIMG_09589	CIMG_09589-t26_1	GG704915:3,282,537..3,287,084(+)	cation chloride cotransporter	N/A	N/A	
+CIMG_09612	CIMG_09612-t26_1	GG704912:709,225..711,797(+)	TIGR01456 family HAD hydrolase	N/A	N/A	
+CIMG_09620	CIMG_09620-t26_1	GG704912:693,492..695,024(+)	recombination hotspot-binding protein	GO:0043565	sequence-specific DNA binding	
+CIMG_09625	CIMG_09625-t26_1	GG704912:684,099..684,958(+)	polarized growth chromatin-associated controller 1	N/A	N/A	
+CIMG_09628	CIMG_09628-t26_1	GG704912:675,157..677,961(-)	protein-tyrosine phosphatase	GO:0008138	protein tyrosine/serine/threonine phosphatase activity	
+CIMG_09641	CIMG_09641-t26_1	GG704912:640,474..642,095(+)	hypothetical protein	GO:0020037, GO:0005506, GO:0016705	heme binding, iron ion binding, oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	
+CIMG_09773	CIMG_09773-t26_1	GG704912:236,367..237,420(-)	chitosanase	N/A	N/A	
+CIMG_09807	CIMG_09807-t26_1	GG704912:142,918..145,031(+)	multidrug resistance protein	N/A	N/A	
+CIMG_09829	CIMG_09829-t26_1	GG704912:88,512..89,175(-)	hypothetical protein	N/A	N/A	
+CIMG_09830	CIMG_09830-t26_1	GG704912:87,313..88,295(+)	hypothetical protein	N/A	N/A	
+CIMG_09894	CIMG_09894-t26_1	GG704915:132,583..134,170(+)	cytochrome P450	GO:0020037, GO:0005506, GO:0016705	heme binding, iron ion binding, oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	
+CIMG_09902	CIMG_09902-t26_1	GG704915:144,638..147,183(+)	hypothetical protein	GO:0016772	transferase activity, transferring phosphorus-containing groups	
+CIMG_09925	CIMG_09925-t26_1	GG704915:228,457..230,000(+)	serine/threonine protein kinase	GO:0005524, GO:0004672	ATP binding, protein kinase activity	
+CIMG_09940	CIMG_09940-t26_1	GG704915:279,304..281,566(-)	hypothetical protein	N/A	N/A	
+CIMG_09952	CIMG_09952-t26_1	GG704915:330,896..333,198(-)	hypothetical protein	GO:0016772	transferase activity, transferring phosphorus-containing groups	
+CIMG_09984	CIMG_09984-t26_1	GG704915:436,576..438,199(+)	glycerol-3-phosphate dehydrogenase [NAD(+)]	GO:0051287, GO:0004367	NAD binding, glycerol-3-phosphate dehydrogenase [NAD+] activity	
+CIMG_09985	CIMG_09985-t26_1	GG704915:439,312..441,704(-)	riboflavin aldehyde-forming enzyme	N/A	N/A	
+CIMG_10007	CIMG_10007-t26_1	GG704915:495,113..497,226(-)	hypothetical protein	N/A	N/A	
+CIMG_10020	CIMG_10020-t26_1	GG704915:523,828..526,056(+)	glutamate decarboxylase	GO:0004351, GO:0030170	glutamate decarboxylase activity, pyridoxal phosphate binding	
+CIMG_10021	CIMG_10021-t26_1	GG704915:527,453..529,953(+)	C6 zinc finger domain-containing protein	GO:0000981, GO:0008270	RNA polymerase II transcription factor activity, sequence-specific DNA binding, zinc ion binding	
+CIMG_10022	CIMG_10022-t26_1	GG704915:531,041..532,778(+)	hypothetical protein	N/A	N/A	
+CIMG_10038	CIMG_10038-t26_1	GG704915:565,432..567,999(+)	metalloreductase	GO:0016491	oxidoreductase activity	
+CIMG_10062	CIMG_10062-t26_1	GG704915:630,278..631,626(+)	serine/threonine protein kinase	GO:0005524, GO:0004672	ATP binding, protein kinase activity	
+CIMG_10080	CIMG_10080-t26_1	GG704915:681,023..682,315(+)	synaptobrevin	N/A	N/A	
+CIMG_10086	CIMG_10086-t26_1	GG704915:695,323..698,890(+)	chitin synthase activator	N/A	N/A	
+CIMG_10109	CIMG_10109-t26_1	GG704915:760,442..761,834(-)	alcohol dehydrogenase	GO:0016491, GO:0016747, GO:0008270	oxidoreductase activity, transferase activity, transferring acyl groups other than amino-acyl groups, zinc ion binding	
+CIMG_10112	CIMG_10112-t26_1	GG704915:764,359..765,990(-)	aromatic ring-opening dioxygenase LigB subunit	GO:0008198, GO:0016491	ferrous iron binding, oxidoreductase activity	
+CIMG_10113	CIMG_10113-t26_1	GG704915:766,449..767,511(-)	hypothetical protein	GO:0016491	oxidoreductase activity	
+CIMG_10115	CIMG_10115-t26_1	GG704915:770,801..771,885(+)	hypothetical protein	GO:0016772	transferase activity, transferring phosphorus-containing groups	
+CIMG_10130	CIMG_10130-t26_1	GG704915:813,625..815,010(+)	GDP-mannose 4,6-dehydratase	GO:0003824, GO:0050662	catalytic activity, coenzyme binding	
+CIMG_10133	CIMG_10133-t26_1	GG704915:821,726..824,274(+)	LCCL domain-containing protein	N/A	N/A	
+CIMG_10176	CIMG_10176-t26_1	GG704915:930,777..932,962(-)	acetamidase	GO:0016884, GO:0016811	carbon-nitrogen ligase activity, with glutamine as amido-N-donor, hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides	
+CIMG_10179	CIMG_10179-t26_1	GG704915:938,020..939,695(+)	malate/L-lactate dehydrogenase	GO:0016491	oxidoreductase activity	
+CIMG_10230	CIMG_10230-t26_1	GG704915:1,072,141..1,074,615(-)	hypothetical protein	GO:0003885, GO:0050660	D-arabinono-1,4-lactone oxidase activity, flavin adenine dinucleotide binding	
+CIMG_10241	CIMG_10241-t26_1	GG704915:1,102,471..1,105,760(-)	hypothetical protein	GO:0005089	Rho guanyl-nucleotide exchange factor activity	
+CIMG_10242	CIMG_10242-t26_1	GG704915:1,107,000..1,108,389(+)	26S proteasome non-ATPase regulatory subunit Nas2	GO:0005515	protein binding	
+CIMG_10292	CIMG_10292-t26_1	GG704915:1,223,046..1,227,933(-)	heavy metal translocating P-type ATPase	GO:0019829, GO:0046872, GO:0000166	cation-transporting ATPase activity, metal ion binding, nucleotide binding	
+CIMG_10294	CIMG_10294-t26_1	GG704915:1,228,850..1,232,066(+)	hypothetical protein	GO:0000981, GO:0008270	RNA polymerase II transcription factor activity, sequence-specific DNA binding, zinc ion binding	
+CIMG_10295	CIMG_10295-t26_1	GG704915:1,230,305..1,232,449(-)	hypothetical protein	N/A	N/A	
+CIMG_10311	CIMG_10311-t26_1	GG704915:1,278,661..1,280,775(+)	adenosylhomocysteinase	GO:0004013	adenosylhomocysteinase activity	
+CIMG_10316	CIMG_10316-t26_1	GG704915:1,296,528..1,298,465(+)	hypothetical protein	N/A	N/A	
+CIMG_10318	CIMG_10318-t26_1	GG704915:1,301,379..1,303,358(-)	phosphoglycerate kinase	GO:0004618	phosphoglycerate kinase activity	
+CIMG_10348	CIMG_10348-t26_2	GG704911:419,396..421,814(+)	hypothetical protein, hypothetical protein, variant	N/A	N/A	
+CIMG_10356	CIMG_10356-t26_1	GG704911:371,594..373,761(+)	hypothetical protein	GO:0005524, GO:0004672	ATP binding, protein kinase activity	
+CIMG_10433	CIMG_10433-t26_1	GG704911:72,597..74,877(+)	hypothetical protein	N/A	N/A	
+CIMG_10439	CIMG_10439-t26_1	GG704911:55,831..57,217(-)	hypothetical protein	N/A	N/A	
+CIMG_10440	CIMG_10440-t26_1	GG704911:52,355..53,207(+)	hypothetical protein	GO:0016772	transferase activity, transferring phosphorus-containing groups	
+CIMG_10488	CIMG_10488-t26_1	GG704911:7,964,174..7,965,448(+)	hypothetical protein	N/A	N/A	
+CIMG_10492	CIMG_10492-t26_1	GG704911:7,922,963..7,923,776(-)	hypothetical protein	N/A	N/A	
+CIMG_10494	CIMG_10494-t26_1	GG704911:7,919,994..7,922,297(+)	hypothetical protein, hypothetical protein, variant	GO:0016772	transferase activity, transferring phosphorus-containing groups	
+CIMG_10496	CIMG_10496-t26_1	GG704911:7,914,366..7,915,218(+)	hypothetical protein	N/A	N/A	
+CIMG_10521	CIMG_10521-t26_1	GG704911:7,626,355..7,627,485(+)	hypothetical protein	N/A	N/A	
+CIMG_10537	CIMG_10537-t26_1	GG704911:7,484,627..7,486,265(+)	hypothetical protein	N/A	N/A	
+CIMG_10613	CIMG_10613-t26_1	GG704911:6,654,794..6,656,105(+)	hypothetical protein	N/A	N/A	
+CIMG_10730	CIMG_10730-t26_1	GG704911:4,883,692..4,884,087(+)	hypothetical protein	N/A	N/A	
+CIMG_10815	CIMG_10815-t26_1	GG704911:3,794,583..3,796,388(-)	phosphotransferase enzyme family protein	GO:0016772	transferase activity, transferring phosphorus-containing groups	
+CIMG_10873	CIMG_10873-t26_1	GG704911:2,947,710..2,948,030(+)	hypothetical protein	N/A	N/A	
+CIMG_10877	CIMG_10877-t26_1	GG704911:2,809,262..2,810,074(+)	hypothetical protein	N/A	N/A	
+CIMG_11008	CIMG_11008-t26_1	GG704911:1,227,194..1,227,572(+)	hypothetical protein	N/A	N/A	
+CIMG_11012	CIMG_11012-t26_1	GG704911:1,103,559..1,104,854(-)	hypothetical protein	GO:0003677	DNA binding	
+CIMG_11032	CIMG_11032-t26_1	GG704916:117,844..118,558(-)	hypothetical protein	N/A	N/A	
+CIMG_11033	CIMG_11033-t26_1	GG704916:119,103..119,800(-)	hypothetical protein	GO:0005524, GO:0004672	ATP binding, protein kinase activity	
+CIMG_11118	CIMG_11118-t26_1	GG704916:1,327,069..1,327,959(+)	hypothetical protein	N/A	N/A	
+CIMG_11184	CIMG_11184-t26_1	GG704916:2,044,514..2,045,373(+)	hypothetical protein	N/A	N/A	
+CIMG_11185	CIMG_11185-t26_1	GG704916:2,045,259..2,046,299(-)	hypothetical protein	N/A	N/A	
+CIMG_11203	CIMG_11203-t26_1	GG704916:2,253,791..2,254,806(+)	hypothetical protein	N/A	N/A	
+CIMG_11276	CIMG_11276-t26_1	GG704916:3,202,017..3,202,997(-)	progesterone binding protein	GO:0020037	heme binding	
+CIMG_11351	CIMG_11351-t26_1	GG704914:928,277..928,621(+)	hypothetical protein	N/A	N/A	
+CIMG_11370	CIMG_11370-t26_1	GG704914:1,116,577..1,117,020(-)	hypothetical protein	N/A	N/A	
+CIMG_11371	CIMG_11371-t26_1	GG704914:1,117,732..1,118,231(-)	hypothetical protein	N/A	N/A	
+CIMG_11443	CIMG_11443-t26_1	GG704914:1,918,050..1,918,566(+)	hypothetical protein	N/A	N/A	
+CIMG_11517	CIMG_11517-t26_1	GG704914:3,104,791..3,106,042(-)	hypothetical protein	GO:0016772	transferase activity, transferring phosphorus-containing groups	
+CIMG_11545	CIMG_11545-t26_2	GG704914:3,351,155..3,355,213(+)	fructose-2,6-bisphosphatase, fructose-2,6-bisphosphatase, variant	GO:0003873, GO:0005524, GO:0004331	6-phosphofructo-2-kinase activity, ATP binding, fructose-2,6-bisphosphate 2-phosphatase activity	
+CIMG_11555	CIMG_11555-t26_1	GG704914:3,450,319..3,451,221(-)	hypothetical protein	N/A	N/A	
+CIMG_11581	CIMG_11581-t26_1	GG704914:3,810,536..3,812,131(+)	hypothetical protein	GO:0008762, GO:0050660	UDP-N-acetylmuramate dehydrogenase activity, flavin adenine dinucleotide binding	
+CIMG_11714	CIMG_11714-t26_1	GG704912:2,113,501..2,114,339(+)	hypothetical protein	N/A	N/A	
+CIMG_11772	CIMG_11772-t26_1	GG704912:2,949,218..2,950,183(-)	hypothetical protein	N/A	N/A	
+CIMG_11902	CIMG_11902-t26_1	GG704912:4,341,662..4,342,111(-)	hypothetical protein	N/A	N/A	
+CIMG_11924	CIMG_11924-t26_1	GG704912:4,781,989..4,784,033(-)	CMGC/SRPK protein kinase	GO:0005524, GO:0004672	ATP binding, protein kinase activity	
+CIMG_11931	CIMG_11931-t26_1	GG704912:4,936,419..4,938,183(-)	FK506 suppressor Sfk1	N/A	N/A	
+CIMG_12056	CIMG_12056-t26_1	GG704913:2,569,784..2,572,258(-)	glucosyltransferase	GO:0016758	transferase activity, transferring hexosyl groups	
+CIMG_12094	CIMG_12094-t26_1	GG704913:2,243,781..2,244,138(+)	hypothetical protein	N/A	N/A	
+CIMG_12130	CIMG_12130-t26_1	GG704913:1,841,470..1,843,227(+)	hypothetical protein	N/A	N/A	
+CIMG_12136	CIMG_12136-t26_1	GG704913:1,692,507..1,693,033(+)	hypothetical protein	N/A	N/A	
+CIMG_12180	CIMG_12180-t26_1	GG704913:1,223,961..1,225,021(+)	hypothetical protein	N/A	N/A	
+CIMG_12217	CIMG_12217-t26_1	GG704913:530,141..531,131(-)	serine/threonine protein kinase	GO:0005524, GO:0004672	ATP binding, protein kinase activity	
+CIMG_12222	CIMG_12222-t26_1	GG704913:499,050..502,967(-)	polysaccharide synthase Cps1	GO:0005524, GO:0042626	ATP binding, ATPase activity, coupled to transmembrane movement of substances	
+CIMG_12296	CIMG_12296-t26_1	GG704915:2,115,599..2,116,784(+)	hypothetical protein	N/A	N/A	
+CIMG_12358	CIMG_12358-t26_1	GG704915:2,996,785..2,997,525(+)	hypothetical protein	N/A	N/A	
+CIMG_12429	CIMG_12429-t26_1	GG704912:233,316..235,758(+)	hypothetical protein	GO:0005525, GO:0003924	GTP binding, GTPase activity	
+CIMG_12441	CIMG_12441-t26_1	GG704912:138,781..139,555(-)	hypothetical protein	N/A	N/A	
+CIMG_12447	CIMG_12447-t26_1	GG704912:43,504..43,931(-)	heat shock protein 70	N/A	N/A	
+CIMG_12459	CIMG_12459-t26_1	GG704915:329,517..331,202(-)	hypothetical protein	N/A	N/A	
+CIMG_12484	CIMG_12484-t26_1	GG704915:552,489..553,068(+)	hypothetical protein	N/A	N/A	
+CIMG_12486	CIMG_12486-t26_1	GG704915:554,167..555,479(-)	acyl-protein thioesterase 1	GO:0016787	hydrolase activity	
+CIMG_12551	CIMG_12551-t26_1	GG704911:127,462..127,950(+)	hypothetical protein	N/A	N/A	
+CIMG_12579	CIMG_12579-t26_1	GG704911:240,059..242,003(-)	hypothetical protein	GO:0005515	protein binding	
+CIMG_12586	CIMG_12586-t26_1	GG704911:277,339..277,752(+)	hypothetical protein	N/A	N/A	
+CIMG_12595	CIMG_12595-t26_1	GG704911:427,459..428,132(+)	hypothetical protein	N/A	N/A	
+CIMG_12612	CIMG_12612-t26_1	GG704911:577,092..577,993(+)	hypothetical protein	GO:0003677, GO:0046982	DNA binding, protein heterodimerization activity	
+CIMG_12625	CIMG_12625-t26_1	GG704911:951,729..952,231(+)	hypothetical protein	N/A	N/A	
+CIMG_12632	CIMG_12632-t26_1	GG704911:985,009..985,433(-)	hypothetical protein	N/A	N/A	
+CIMG_12635	CIMG_12635-t26_1	GG704911:1,010,583..1,011,872(-)	hypothetical protein	GO:0005524, GO:0004672	ATP binding, protein kinase activity	
+CIMG_12638	CIMG_12638-t26_1	GG704911:1,052,459..1,052,989(+)	hypothetical protein	N/A	N/A	
+CIMG_12662	CIMG_12662-t26_1	GG704911:1,563,039..1,564,090(-)	hypothetical protein	N/A	N/A	
+CIMG_12663	CIMG_12663-t26_1	GG704911:1,564,966..1,566,207(-)	hypothetical protein	N/A	N/A	
+CIMG_12709	CIMG_12709-t26_1	GG704911:2,328,324..2,328,707(+)	hypothetical protein	N/A	N/A	
+CIMG_12716	CIMG_12716-t26_1	GG704911:2,913,474..2,914,019(-)	hypothetical protein	N/A	N/A	
+CIMG_12717	CIMG_12717-t26_1	GG704911:2,918,486..2,919,477(+)	hypothetical protein	N/A	N/A	
+CIMG_12719	CIMG_12719-t26_1	GG704911:2,945,047..2,946,590(-)	hypothetical protein	N/A	N/A	
+CIMG_12734	CIMG_12734-t26_1	GG704911:3,224,805..3,226,374(-)	hypothetical protein	N/A	N/A	
+CIMG_12741	CIMG_12741-t26_1	GG704911:3,355,726..3,356,208(+)	hypothetical protein	N/A	N/A	
+CIMG_12749	CIMG_12749-t26_1	GG704911:3,512,954..3,513,700(-)	hypothetical protein	GO:0005524, GO:0016773	ATP binding, phosphotransferase activity, alcohol group as acceptor	
+CIMG_12750	CIMG_12750-t26_1	GG704911:3,514,096..3,517,842(-)	acyl-CoA oxidase	GO:0003995, GO:0003997	acyl-CoA dehydrogenase activity, acyl-CoA oxidase activity	
+CIMG_12807	CIMG_12807-t26_1	GG704911:5,781,615..5,782,884(+)	hypothetical protein	N/A	N/A	
+CIMG_12852	CIMG_12852-t26_1	GG704911:6,803,670..6,804,984(-)	hypothetical protein	N/A	N/A	
+CIMG_12857	CIMG_12857-t26_1	GG704911:6,946,202..6,947,994(-)	hypothetical protein	N/A	N/A	
+CIMG_12868	CIMG_12868-t26_1	GG704911:7,143,874..7,144,430(+)	hypothetical protein	N/A	N/A	
+CIMG_12891	CIMG_12891-t26_1	GG704911:7,756,589..7,757,381(+)	hypothetical protein	N/A	N/A	
+CIMG_12898	CIMG_12898-t26_1	GG704911:7,915,327..7,916,156(+)	hypothetical protein	N/A	N/A	
+CIMG_12903	CIMG_12903-t26_1	GG704911:8,088,610..8,089,464(+)	hypothetical protein	N/A	N/A	
+CIMG_12906	CIMG_12906-t26_1	GG704911:8,185,434..8,187,931(+)	hypothetical protein	N/A	N/A	
+CIMG_12911	CIMG_12911-t26_1	GG704911:8,279,409..8,280,031(+)	hypothetical protein	N/A	N/A	
+CIMG_12925	CIMG_12925-t26_1	GG704911:8,468,982..8,469,593(+)	hypothetical protein	N/A	N/A	
+CIMG_12961	CIMG_12961-t26_1	GG704912:416,277..418,725(+)	hypothetical protein	N/A	N/A	
+CIMG_12971	CIMG_12971-t26_1	GG704912:603,083..604,061(-)	hypothetical protein	GO:0003677, GO:0046982	DNA binding, protein heterodimerization activity	
+CIMG_12993	CIMG_12993-t26_1	GG704912:1,004,835..1,005,547(-)	hypothetical protein	N/A	N/A	
+CIMG_12995	CIMG_12995-t26_1	GG704912:1,024,194..1,024,544(+)	hypothetical protein	N/A	N/A	
+CIMG_13012	CIMG_13012-t26_1	GG704912:1,525,274..1,527,227(+)	ankyrin repeat protein	GO:0016772	transferase activity, transferring phosphorus-containing groups	
+CIMG_13043	CIMG_13043-t26_1	GG704912:2,268,720..2,270,192(+)	long-chain acyl-CoA synthetase	N/A	N/A	
+CIMG_13047	CIMG_13047-t26_1	GG704912:2,297,764..2,299,397(-)	hypothetical protein	N/A	N/A	
+CIMG_13067	CIMG_13067-t26_1	GG704912:2,961,731..2,962,077(-)	hypothetical protein	N/A	N/A	
+CIMG_13075	CIMG_13075-t26_1	GG704912:3,273,657..3,274,633(-)	hypothetical protein	N/A	N/A	
+CIMG_13091	CIMG_13091-t26_1	GG704912:3,816,809..3,821,350(+)	hypothetical protein	N/A	N/A	
+CIMG_13110	CIMG_13110-t26_1	GG704912:4,364,095..4,366,537(+)	hypothetical protein	N/A	N/A	
+CIMG_13111	CIMG_13111-t26_1	GG704912:4,366,669..4,367,720(-)	hypothetical protein	N/A	N/A	
+CIMG_13114	CIMG_13114-t26_1	GG704912:4,439,860..4,440,407(+)	hypothetical protein	N/A	N/A	
+CIMG_13144	CIMG_13144-t26_1	GG704912:5,188,767..5,189,736(-)	hypothetical protein	N/A	N/A	
+CIMG_13147	CIMG_13147-t26_1	GG704912:5,215,222..5,215,956(+)	transcription termination factor 2	N/A	N/A	
+CIMG_13156	CIMG_13156-t26_1	GG704913:34,727..35,666(-)	hypothetical protein	GO:0003677, GO:0046982	DNA binding, protein heterodimerization activity	
+CIMG_13191	CIMG_13191-t26_1	GG704913:993,508..994,095(+)	hypothetical protein	N/A	N/A	
+CIMG_13196	CIMG_13196-t26_1	GG704913:1,134,590..1,136,678(-)	hypothetical protein	N/A	N/A	
+CIMG_13205	CIMG_13205-t26_1	GG704913:1,325,650..1,326,450(+)	hypothetical protein	N/A	N/A	
+CIMG_13208	CIMG_13208-t26_1	GG704913:1,354,689..1,355,913(+)	hypothetical protein	GO:0005524, GO:0042626	ATP binding, ATPase activity, coupled to transmembrane movement of substances	
+CIMG_13214	CIMG_13214-t26_1	GG704913:1,380,780..1,381,463(+)	hypothetical protein	N/A	N/A	
+CIMG_13230	CIMG_13230-t26_1	GG704913:1,553,948..1,554,321(+)	hypothetical protein	N/A	N/A	
+CIMG_13231	CIMG_13231-t26_1	GG704913:1,570,938..1,572,029(-)	hypothetical protein	N/A	N/A	
+CIMG_13232	CIMG_13232-t26_1	GG704913:1,576,842..1,577,599(+)	hypothetical protein	N/A	N/A	
+CIMG_13233	CIMG_13233-t26_1	GG704913:1,586,422..1,587,238(+)	hypothetical protein	N/A	N/A	
+CIMG_13238	CIMG_13238-t26_1	GG704913:1,676,855..1,677,163(-)	hypothetical protein	N/A	N/A	
+CIMG_13239	CIMG_13239-t26_1	GG704913:1,677,449..1,677,779(-)	hypothetical protein	N/A	N/A	
+CIMG_13241	CIMG_13241-t26_1	GG704913:1,747,899..1,748,736(+)	hypothetical protein	N/A	N/A	
+CIMG_13242	CIMG_13242-t26_1	GG704913:1,748,793..1,749,132(+)	hypothetical protein	N/A	N/A	
+CIMG_13243	CIMG_13243-t26_1	GG704913:1,755,809..1,756,129(+)	hypothetical protein	N/A	N/A	
+CIMG_13247	CIMG_13247-t26_1	GG704913:1,854,907..1,856,151(-)	hypothetical protein	N/A	N/A	
+CIMG_13251	CIMG_13251-t26_1	GG704913:1,922,943..1,924,229(-)	hypothetical protein	N/A	N/A	
+CIMG_13263	CIMG_13263-t26_1	GG704913:2,179,277..2,179,615(+)	hypothetical protein	N/A	N/A	
+CIMG_13267	CIMG_13267-t26_1	GG704913:2,246,851..2,247,498(-)	hypothetical protein	N/A	N/A	
+CIMG_13276	CIMG_13276-t26_1	GG704913:2,437,156..2,437,632(+)	hypothetical protein	N/A	N/A	
+CIMG_13279	CIMG_13279-t26_1	GG704913:2,602,541..2,603,583(+)	hypothetical protein	N/A	N/A	
+CIMG_13297	CIMG_13297-t26_1	GG704913:2,923,716..2,926,868(+)	copper radical oxidase	N/A	N/A	
+CIMG_13304	CIMG_13304-t26_1	GG704913:3,072,804..3,073,160(-)	hypothetical protein	N/A	N/A	
+CIMG_13336	CIMG_13336-t26_1	GG704913:4,132,395..4,133,239(+)	hypothetical protein	N/A	N/A	
+CIMG_13377	CIMG_13377-t26_1	GG704914:1,114,819..1,115,142(+)	hypothetical protein	N/A	N/A	
+CIMG_13378	CIMG_13378-t26_1	GG704914:1,125,725..1,127,269(+)	hypothetical protein	N/A	N/A	
+CIMG_13414	CIMG_13414-t26_1	GG704914:2,241,487..2,242,127(-)	hypothetical protein	N/A	N/A	
+CIMG_13417	CIMG_13417-t26_1	GG704914:2,286,352..2,286,804(-)	hypothetical protein	N/A	N/A	
+CIMG_13428	CIMG_13428-t26_1	GG704914:2,501,039..2,501,956(-)	hypothetical protein	N/A	N/A	
+CIMG_13457	CIMG_13457-t26_1	GG704914:3,039,418..3,040,343(+)	hypothetical protein	N/A	N/A	
+CIMG_13466	CIMG_13466-t26_1	GG704914:3,360,478..3,362,071(-)	hypothetical protein	N/A	N/A	
+CIMG_13475	CIMG_13475-t26_1	GG704914:3,668,663..3,669,130(+)	hypothetical protein	N/A	N/A	
+CIMG_13497	CIMG_13497-t26_1	GG704915:134,386..134,802(-)	hypothetical protein	N/A	N/A	
+CIMG_13501	CIMG_13501-t26_1	GG704915:183,335..184,607(+)	hypothetical protein	N/A	N/A	
+CIMG_13504	CIMG_13504-t26_1	GG704915:213,584..214,305(+)	hypothetical protein	N/A	N/A	
+CIMG_13508	CIMG_13508-t26_1	GG704915:233,225..234,164(-)	hypothetical protein	N/A	N/A	
+CIMG_13509	CIMG_13509-t26_1	GG704915:235,164..235,373(+)	hypothetical protein	N/A	N/A	
+CIMG_13531	CIMG_13531-t26_1	GG704915:497,835..499,348(+)	hypothetical protein	N/A	N/A	
+CIMG_13537	CIMG_13537-t26_1	GG704915:623,994..625,097(+)	hypothetical protein	N/A	N/A	
+CIMG_13543	CIMG_13543-t26_1	GG704915:784,657..785,722(+)	hypothetical protein	GO:0016772	transferase activity, transferring phosphorus-containing groups	
+CIMG_13544	CIMG_13544-t26_1	GG704915:785,969..787,126(+)	hypothetical protein	N/A	N/A	
+CIMG_13545	CIMG_13545-t26_1	GG704915:787,155..788,214(+)	hypothetical protein	N/A	N/A	
+CIMG_13563	CIMG_13563-t26_1	GG704915:1,388,234..1,388,629(+)	hypothetical protein	N/A	N/A	
+CIMG_13571	CIMG_13571-t26_1	GG704915:1,815,165..1,816,380(-)	hypothetical protein	N/A	N/A	
+CIMG_13600	CIMG_13600-t26_1	GG704915:2,544,574..2,545,703(+)	hypothetical protein	N/A	N/A	
+CIMG_13602	CIMG_13602-t26_1	GG704915:2,620,307..2,621,198(+)	hypothetical protein	N/A	N/A	
+CIMG_13650	CIMG_13650-t26_1	GG704916:41,470..42,195(-)	hypothetical protein	N/A	N/A	
+CIMG_13669	CIMG_13669-t26_1	GG704916:298,867..299,343(+)	hypothetical protein	N/A	N/A	
+CIMG_13714	CIMG_13714-t26_1	GG704916:1,325,112..1,325,769(-)	hypothetical protein	N/A	N/A	
